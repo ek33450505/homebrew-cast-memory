@@ -1,8 +1,9 @@
 class CastMemory < Formula
   desc "Persistent memory for Claude Code agents — FTS5 search, embeddings, MCP server"
   homepage "https://github.com/ek33450505/cast-memory"
-  url "https://github.com/ek33450505/cast-memory/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "39556fe48b2efb4cad7bd88248bb6530a38de37a1ee5420398da265740079c80"
+  url "https://github.com/ek33450505/cast-memory/archive/refs/tags/v0.2.0.tar.gz"
+  version "0.2.0"
+  sha256 "cddbc2beafaa8cd9197110c0037c443c586d10f9312e4a7a97ff3d4c67610025"
   license "MIT"
 
   depends_on "python@3"
